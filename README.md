@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/sumaya257/sumaya257/refs/heads/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.gif"  />
+</div>
+
+###
+
 <h1 align="left">Sumaya Tabassum</h1>
 
 ###
@@ -50,9 +56,6 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href=""mailto:sumayaece19@gmail.com?subject=Subject%20Here&body=Message%20Here" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
   <a href="https://wa.me/+8801717521838" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
@@ -65,12 +68,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumaya257&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/sumaya257/sumaya257/refs/heads/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.gif"  />
 </div>
 
 ###

@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 Currently learning Node.js and Next.js<br>🎯 Goal: Become a confident MERN stack web developer<br>🎲 Fun fact: I love to sleep but code keeps me awake!</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 Learning Next.js<br>🎯 Building projects with React, Node.js, Express.js, Firebase, MongoDB, and Tailwind CSS<br>🚀 Experienced with Vercel, Netlify, and Firebase for deployment<br>🎲 Fun fact: I love to sleep, but coding keeps me awake!</p>
 
 ###
 
@@ -50,10 +50,10 @@
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="sumayaece19@gmail.com" target="_blank">
+  <a href=""mailto:sumayaece19@gmail.com?subject=Subject%20Here&body=Message%20Here" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://wa.me/01717521838" target="_blank">
+  <a href="https://wa.me/+8801717521838" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://www.facebook.com/sumaya.tabassum.952448/" target="_blank">
@@ -64,8 +64,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumaya257&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumaya257&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/sumaya257/sumaya257/refs/heads/main/Black%20And%20Grey%20Professional%20Technology%20LinkedIn%20Banner.gif"  />
 </div>
 
 ###

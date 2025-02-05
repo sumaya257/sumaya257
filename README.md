@@ -44,16 +44,23 @@
 
 ## Social Links  
 <div align="left">
-  <a href="https://linkedin.com/in/sumaya-tabassum" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  <a href="mailto:sumayaece19@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email logo" />
+  </a>
+  <a href="tel:+8801717521838" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/phone/default.svg" width="52" height="40" alt="Phone logo" />
   </a>
   <a href="https://wa.me/+8801717521838" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
+  </a>
+  <a href="https://linkedin.com/in/sumaya-tabassum" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
   <a href="https://www.facebook.com/sumaya.tabassum.952448/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo" />
   </a>
 </div>
+
 
 ---
 

@@ -47,9 +47,6 @@
   <a href="mailto:sumayaece19@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Email logo" />
   </a>
-  <a href="tel:+8801717521838" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/597/597177.png" width="52" height="40" alt="Phone logo" />
-  </a>
   <a href="https://wa.me/+8801717521838" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp logo" />
   </a>
